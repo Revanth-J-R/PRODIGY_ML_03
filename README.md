@@ -30,3 +30,7 @@
     Load the trained model from the .sav file.
     Calculate the accuracy of the model on the test set.
     Predict and display the classification of the first image from the test set, which varies with each run due to dataset shuffling.
+
+# Note:
+## Only part of the dataset is given in this repository.
+## Get the whole dataset here: https://www.kaggle.com/c/dogs-vs-cats/data
